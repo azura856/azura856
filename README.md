@@ -5,7 +5,9 @@
   👨‍🎓 Graduada no Interdisciplinar em Ciência e Tecnologia pela UFBA
 
   💼 Fui gerente de marketing durante 3 anos na Eletrojr - Empresa Júnior de Engenharia Elétrica da UFBA
+  
   💼 Fui Trainee da TITAN - Empresa Júnior de Engenharia de Computação da UFBA<a href="https://titanci.com.br" rel="nofollow"><img align="center" width="6%" src="https://camo.githubusercontent.com/7c3a8ce3f01d3cb47dace06bd692534194def5754e7619d78bf489dd0c6783d6/68747470733a2f2f746974616e63692e636f6d2e62722f6173736574732f696d672f6c6f676f2d636f6d2d6e6f6d652e706e67" data-canonical-src="https://titanci.com.br/assets/img/logo-com-nome.png" style="max-width: 100%;"></a>
+  
   💼 Sou bolsista de Iniciação Científica em Sistemas Embarcados no SENAI
   
   💻 Aprendendo Desenvolvimento WEB 
