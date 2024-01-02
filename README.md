@@ -14,7 +14,7 @@
   
   ❤️ Gosto muito de tecnologia, principalmente quando envolvem Software e Hardware.
   
-  🎮 No meu tempo libre costumo jogar jogos online e de tabuleiro com amigos. Adoro sair para conhecer lugares novos e aprender sobre novas culturas
+  🎮 No meu tempo livre costumo jogar jogos online e de tabuleiro com amigos. Adoro sair para conhecer lugares novos e aprender sobre novas culturas
   
   ## Onde posso ser encontrada?📫
   <div>
